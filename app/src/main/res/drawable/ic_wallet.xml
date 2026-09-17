@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Tờ tiền màu xanh lá phía sau -->
+    <path
+        android:fillColor="#6BBF59"
+        android:pathData="M 40,25 C 40,22 42,20 45,20 L 80,20 C 83,20 85,22 85,25 L 85,45 L 40,45 Z" />
+    <path
+        android:fillColor="#4CAE4C"
+        android:pathData="M 32,32 C 32,29 34,27 37,27 L 72,27 C 75,27 77,29 77,32 L 77,45 L 32,45 Z" />
+
+    <!-- Thân ví màu xanh dương -->
+    <path
+        android:fillColor="#1E75D8"
+        android:pathData="M 25,40 L 95,40 C 100.5,40 105,44.5 105,50 L 105,85 C 105,90.5 100.5,95 95,95 L 25,95 C 19.5,95 15,90.5 15,85 L 15,50 C 15,44.5 19.5,40 25,40 Z" />
+
+    <!-- Khóa ví màu xanh đậm -->
+    <path
+        android:fillColor="#1558B0"
+        android:pathData="M 78,56 L 105,56 C 105,56 105,79 105,79 L 78,79 C 71.6,79 66.5,73.8 66.5,67.5 C 66.5,61.2 71.6,56 78,56 Z" />
+
+    <!-- Nút tròn màu trắng -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 82,67.5 A 4.5,4.5 0 1,0 91,67.5 A 4.5,4.5 0 1,0 82,67.5 Z" />
+</vector>

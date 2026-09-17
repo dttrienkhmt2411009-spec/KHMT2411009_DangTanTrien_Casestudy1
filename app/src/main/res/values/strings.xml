@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="title_expense_manager">Expense Manager</string>
+    <string name="subtitle_desc">Quản lý chi tiêu cá nhân\nđơn giản và hiệu quả</string>
+    <string name="btn_start">Bắt đầu</string>
+</resources>
