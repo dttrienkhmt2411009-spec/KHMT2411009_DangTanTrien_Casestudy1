@@ -3,4 +3,23 @@
     <color name="text_title">#0F172A</color>
     <color name="text_subtitle">#64748B</color>
     <color name="white">#FFFFFF</color>
+    <color name="bg_main">#F8F9FA</color>
+    <color name="blue_card">#2F75F0</color>
+    <color name="green_income_bg">#E8F5E9</color>
+    <color name="green_income_text">#4CAF50</color>
+    <color name="red_expense_bg">#FFEBEE</color>
+    <color name="red_expense_text">#F44336</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_grey">#757575</color>
+    <!-- Các màu hệ thống bị thiếu -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Các màu tùy chỉnh cho ứng dụng Quản lý thu chi -->
+    <color name="expense_red">#FF4C5E</color>
+    <color name="income_green">#4CAF50</color>
 </resources>
